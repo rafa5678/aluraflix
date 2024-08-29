@@ -6,7 +6,7 @@ body {
 
 header {
     border-bottom: solid 2px rgb(42, 122, 228); /* Adiciona uma borda inferior de 2px de espessura e cor azul */
-    padding: 20px; /* Define um espaçamento interno de 20px ao redor do conteúdo do cabeçalho */
+    padding: 20px; /* Define um  espaçamento interno de 20px ao redor do conteúdo do cabeçalho */
     font-size: 32px; /* Define o tamanho da fonte como 32px */
     color: rgb(42, 122, 228); /* Define a cor do texto do cabeçalho como azul */
 }
